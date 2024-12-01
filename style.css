@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' ,sans-serif;
+}
+
+/* // =============================================
+// Question no. 57: */
+/* body{
+    width: 100%;
+    height: 100vh;
+    background: #3498db;
+}
+.logo{
+    color: #fff;
+}
+nav{
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #004274;
+    position: relative;
+    height: 70px;
+}
+nav ul{
+    display: flex;
+    gap: 30px;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+.menu_icon{
+    display: none;
+}
+.menu_icon{
+    color: #fff;
+    font-size: 30px;
+}
+@media (max-width: 600px){
+    nav ul {
+        position: absolute;
+        top: 70px;
+        left: 0;
+        right: 0;
+        flex-direction: column;
+        text-align: center;
+        background: #004274;
+        gap: 0;
+        overflow: hidden;
+    }
+    nav ul li {
+        padding: 20px;
+    }
+    .menu_icon{
+        display: block;
+    }
+    #menu_list{
+        transition: all 0.5s ease-out;
+    }
+} */
+
+
+
+/* // =============================================
+// Question no. 62: */
+/* mark{
+    background-color: yellow;
+} */
+
+
+
+/* ============================================= 
+Question no. 64:  */
+/* .red, .green, .blue, .orange {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+.blue {
+    background: blue;
+}
+.orange {
+    background: orangered;
+}
+#scrollbtn{
+    padding: 10px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: aqua;
+    font-weight: bold;
+    border: 2px solid blue;
+    cursor: pointer;
+}
+#scrollbtn:hover{
+    background: green;
+} */
+
+/* =============================================
+ Question no. 64: */
+/* .hero {
+    width: 100%;
+    height: 100vh;
+    background: #d1d1d1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    width: 400px;
+    background: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    text-align: center;
+    color: #333;
+}
+.card h1{
+    font-weight: 500;
+    color: #000;
+}
+.card img{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+label {
+    display: block;
+    width: 200px;
+    background: #e3362c;
+    color: #fff;
+    padding: 12px;
+    margin: 10px auto;
+    cursor: pointer;
+    border-radius: 5px;
+}
+input {
+    display: none;
+} */

@@ -1,0 +1,100 @@
+JavaScript Function Challenges: A Hands-on Assignment
+Afsah Farooqui
+•
+Yesterday
+50 points
+Due Nov 25
+Dear Students,
+
+Please complete the following tasks and submit your work on a Full-Scape Sheet by November 25, 2024.
+
+1. Write a function `isEven` that takes a number as an argument and returns true if the number is even and false if it is odd.
+2. Create a function `countVowels` that takes a string and returns the number of vowels in that string.
+3. Write a function `reverseString` that takes a string and returns it reversed (e.g., "hello" becomes "olleh").
+4. Create a function `findMax` that takes an array of numbers and returns the largest number.
+5. Write a function `isPalindrome` that checks if a given string is a palindrome (reads the same backward as forward).
+6. Create a function `fibonacci` that returns the nth Fibonacci number.
+7. Write a function `factorial` that calculates the factorial of a given number.
+8. Create a function `removeDuplicates` that takes an array and returns a new array without duplicates.
+9. Write a function `sumArray` that takes an array of numbers and returns the sum.
+10. Create a function `sortArray` that takes an array of numbers and returns it sorted in ascending order.
+11. Write a function `stringLength` that returns the length of a given string.
+12. Create a function `toUpperCase` that takes a string and returns it in uppercase.
+13. Write a function `capitalizeFirstLetter` that capitalizes the first letter of each word in a string.
+14. Create a function `mergeArrays` that takes two arrays and merges them into one.
+15. Write a function `isPrime` that checks if a number is prime.
+16. Create a function `countWords` that counts the number of words in a string.
+17. Write a function `arrayContains` that checks if an array contains a specific value.
+18. Create a function `uniqueElements` that returns an array of unique elements from a given array.
+19. Write a function `flattenArray` that flattens a nested array.
+20. Create a function `repeatString` that takes a string and a number, and returns the string repeated that many times.
+21. Write a function `getRandomInt` that returns a random integer between two numbers.
+22. Create a function `average` that calculates the average of an array of numbers.
+23. Write a function `removeSpaces` that removes all spaces from a string.
+24. Create a function `difference` that returns the difference between the largest and smallest numbers in an array.
+25. Write a function `shuffledArray` that takes an array and returns it shuffled randomly.
+26. Create a function `longestWord` that returns the longest word in a string.
+27. Write a function `countDown` that takes a number and counts down to zero, logging each number.
+28. Create a function `firstNonRepeatingChar` that finds the first non-repeating character in a string.
+29. Write a function `toTitleCase` that converts a string to title case.
+30. Create a function `removeElement` that removes a specified element from an array.
+31. Write a function `swap` that swaps the values of two variables.
+32. Create a function `countOccurrences` that counts how many times a specific value appears in an array.
+33. Write a function `mostFrequent` that finds the most frequently occurring element in an array.
+34. Create a function `combineStrings` that concatenates two strings with a space in between.
+35. Write a function `randomColor` that generates and returns a random RGB color.
+36. Create a function `sumOfDigits` that returns the sum of the digits of a number.
+37. Write a function `findIndex` that returns the index of a specific value in an array.
+38. Create a function `shuffleString` that shuffles the characters of a string randomly.
+39. Write a function `secondLargest` that finds the second largest number in an array.
+40. Create a function `stringToArray` that converts a string to an array of words.
+41. Write a function `mergeSortedArrays` that merges two sorted arrays into one sorted array.
+42. Create a function `sumPositiveNumbers` that sums all positive numbers in an array.
+43. Write a function `extractDomain` that extracts the domain from a URL.
+44. Create a function `sumEvenNumbers` that sums all even numbers in an array.
+45. Write a function `getDayOfWeek` that returns the day of the week for a given date.
+46. Create a function `largestEvenNumber` that finds the largest even number in an array.
+47. Write a function `mergeObjects` that merges two objects into one.
+48. Create a function `capitalizeFirstLetter` that capitalizes the first letter of each word in a string.
+49. Write a function `randomInteger` that generates a random integer between two given values.
+50. Create a function `uniqueArray` that returns an array with duplicate values removed.
+51. Write a function `isAnagram` that checks if two strings are anagrams of each other (e.g., "listen" and "silent").
+52. Create a function `removeVowels` that takes a string and returns a new string with all vowels removed.
+53. Write a function `getAge` that calculates the age of a person based on their birth year.
+54. Create a function `findMissingNumber` that finds the missing number in a given array of consecutive integers.
+55. Write a function `countUppercase` that counts the number of uppercase letters in a string.
+56. Create a function `validateEmail` that checks if a given email address is valid.
+57. Write a function `toggleNavbar` that shows or hides a navigation bar when a button is clicked.
+58. Create a function `submitForm` that validates a form and submits it if all fields are filled correctly.
+59. Write a function `addToCart` that adds an item to a shopping cart and updates the cart count.
+60. Create a function `searchProducts` that searches for products in an array and returns matching results.
+61. Write a function `sortByPrice` that sorts an array of products by their price.
+62. Create a function `highlightText` that highlights specific keywords in a block of text.
+63. Write a function `validatePassword` that checks if a password meets certain criteria (length, special characters, etc.).
+64. Create a function `scrollToTop` that scrolls the page to the top smoothly when called.
+65. Write a function `updateProfilePicture` that allows a user to upload a new profile picture.
+66. Create a function `validatePhoneNumber` that checks if a phone number is valid based on a specified format.
+67. Write a function `getCurrentDateTime` that returns the current date and time in a specified format.
+68. Create a function `generateRandomPassword` that creates a random password based on user-defined criteria.
+69. Write a function `rotateArray` that rotates an array to the right by a given number of steps.
+70. Create a function `comparePasswords` that checks if two password fields match during registration.
+71. Write a function `isAdult` that takes an age and returns true if the age is 18 or older, and false otherwise.
+72. Create a function `concatStrings` that takes two strings and returns them concatenated together.
+73. Write a function `greetUser` that takes a name and returns a greeting message (e.g., "Hello, [name]!").
+74. Create a function `squareNumber` that takes a number and returns its square.
+75. Write a function `countChars` that counts the number of characters in a string.
+76. Create a function `isString` that checks if a given input is a string and returns true or false.
+77. Write a function `findMin` that takes an array of numbers and returns the smallest number.
+78. Create a function `splitString` that takes a string and returns an array of its characters.
+79. Write a function `removeLastElement` that takes an array and returns a new array with the last element removed.
+80. Create a function `toggleCase` that takes a string and toggles the case of each character.
+81. Write a function `countConsonants` that takes a string and returns the number of consonants in that string.
+82. Create a function `removeWhitespace` that removes all leading and trailing whitespace from a string.
+83. Create a function `highlightSubstring` that highlights a specified substring within a string.
+84. Write a function `formatCurrency` that takes a number and formats it as a currency string.
+85. Create a function `getElementById` that takes an ID and returns the HTML element with that ID.
+86. Write a function `formatDate(date)` that takes a date object and returns a formatted date string in the format YYYY-MM-DD.
+87. Create a function `resizeElement(elementId, width, height)` that resizes the HTML element with the specified ID to the provided width and height.
+88. Write a function that flattens a nested array into a single array.
+
+Make sure to submit your assignment on time!
